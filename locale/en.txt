@@ -1,0 +1,24 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_20A535AA_2E48_A192_4192_FC419656131D.url = https://9ac2e9.myshopify.com/
+
+## Hotspot
+
+### URL
+overlay_21E211EB_2E58_E192_41B7_A2DC3997093A.url = https://9ac2e9.myshopify.com/?_ab=0&_fd=0&_sc=1
+
+## Media
+
+### Title
+panorama_250D8776_2E48_A173_41A1_322B20EC3051.label = untitled
+panorama_2498E6ED_2E49_E396_41BE_F7752A07787B.label = untitled 2
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
